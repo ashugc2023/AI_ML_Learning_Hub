@@ -81,7 +81,7 @@ To run a Jupyter Notebook from this repository on your local machine, follow the
 
 1. **Clone the Repository**:
    ```bash
-   git clone <https://github.com/ashugc2023/AI_ML_Learning_Hub.git>
+   git clone https://github.com/ashugc2023/AI_ML_Learning_Hub.git
 
 
 ## License
